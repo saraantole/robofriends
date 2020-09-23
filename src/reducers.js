@@ -12,8 +12,7 @@ const initialState = {
 
 const initialStateRobots = {
     isPending: false,
-    robots: [],
-    error: ''
+    robots: []
 }
 
 //Reducers
